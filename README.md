@@ -1,2 +1,4 @@
 # issuetest
-Fake repo with issues to sync to jira
+Fake repo with:
+- issues to sync to jira
+- PRs to sync to jira
